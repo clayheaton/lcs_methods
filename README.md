@@ -1,5 +1,9 @@
 # SAMS Raw Data Import, Cleaning, and Prep Scripts
 
+**Instructions**
+
+To view the code and read the methodology, click into the relevant folder and click the name of one of the files. The `.ipynb` files will take a moment to load but will render inline. My comments are included therein.
+
 Each directory contains python scripts or Jupyter Notebooks with python code used for the various components of the projects. The Jupyter Notebooks (mostly) contains Markdown blocks that document what I was doing and why I was doing it. This is the log of my methodology.
 
 
