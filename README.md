@@ -1,5 +1,26 @@
 # SAMS Raw Data Import, Cleaning, and Prep Scripts
 
+Each directory contains python scripts or Jupyter Notebooks with python code used for the various components of the projects. The Jupyter Notebooks (mostly) contains Markdown blocks that document what I was doing and why I was doing it. This is the log of my methodology.
+
+
+## vdc
+
+The file `vdc_scraper.py` is the script that I used to pull data off of the VDC portal.
+
+## wikipedia_timeline
+
+The code that I used to extract the Syrian Civil War Timeline from wikipedia during the Summer of 2017.
+
+## syria_portal
+
+The code that I used to extract the articles from the Syria portal, which I subsequently pushed into the RDC Discourse website.
+
+## uossm
+
+Some work that I did (June 2017) to transform data provided by UOSSM into a SQLite database so that it could be more easily analyzed in Tableau.
+
+## sams
+
 This repository contains the series of Jupyter Notebooks (python) containing the code I used to import, clean, and process patient encounter data from the SAMS raw data files. The data itself is not included.
 
 The only changes to the scripts that I made was to redact an API key for Airtable and the hash salts for PII because their inclusion would risk the security of my Airtable account and the PII of the patients that visited the SAMS clinics. 
