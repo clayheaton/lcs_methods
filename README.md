@@ -1,4 +1,4 @@
-# SAMS Raw Data Import, Cleaning, and Prep Scripts
+# LCS Data Scraping, Cleaning, Preparation, and Analysis Scripts
 
 **Instructions**
 
